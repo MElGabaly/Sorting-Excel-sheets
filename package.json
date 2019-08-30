@@ -1,0 +1,24 @@
+{
+  "name": "Sorting-Excel-sheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MElGabaly/Sorting-Excel-sheets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MElGabaly/Sorting-Excel-sheets/issues"
+  },
+  "homepage": "https://github.com/MElGabaly/Sorting-Excel-sheets#readme",
+  "dependencies": {
+    "exceljs": "^1.15.0",
+    "promise-polyfill": "8.1.3"
+  }
+}
