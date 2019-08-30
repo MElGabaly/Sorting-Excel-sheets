@@ -16,7 +16,7 @@ var keywords = [
   "vernon",
   "ug3",
   "ug4",
-  "la brea",
+  "brea",
   "labrea",
   "hindry",
   "cos",
@@ -31,7 +31,12 @@ var keywords = [
   "soe",
   "ug1",
   "expo",
-  "greenline"
+  "greenline",
+  "change",
+  "changes",
+  "revision",
+  "revisions",
+  "addendum"
 ];
 
 // Reading and overwriting the xlsx file
